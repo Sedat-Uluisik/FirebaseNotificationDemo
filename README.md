@@ -1,7 +1,7 @@
-√ Retrofit
-√ View Binding
-√ Coroutines
-√ Firebase Messaging
+√ Retrofit <br/>
+√ View Binding <br/>
+√ Coroutines <br/>
+√ Firebase Messaging <br/>
 √ Android Notifications <br/>
 
 ![Resim](https://github.com/Sedat-Uluisik/FirebaseNotificationDemo/blob/master/app_images/Screen_1.PNG) <br/>
